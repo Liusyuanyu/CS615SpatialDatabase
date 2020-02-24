@@ -33,8 +33,8 @@ INSERT INTO Ports VALUES(
 );
 
 INSERT INTO Ports VALUES(
-        PORT('Mumbai', 18.95, 72.95 ),
-        IMPORT('Mineral', 3776710 ), 18410000
+        PORT('Durban', -29.8834, 31.05 ),
+        IMPORT('Vehicles', 503000 ), 3720953
 );
 
 
@@ -58,22 +58,4 @@ INSERT INTO Ports VALUES(
         PORT('Melbourne', -37.81361, 144.9631),
         IMPORT('Mineral', 3776710 ), 4936000
 );
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
